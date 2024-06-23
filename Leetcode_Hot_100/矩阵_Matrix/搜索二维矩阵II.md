@@ -64,7 +64,7 @@ func searchMatrix(matrix [][]int, target int) bool {
             j--
         }
     }
-    return fal
+    return false
 
 }
 ```
